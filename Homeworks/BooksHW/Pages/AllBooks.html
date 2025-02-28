@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Список книг</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+    <header class="bg-dark text-white py-3 mb-4">
+        <div class="container d-flex justify-content-between">
+            <h1 class="h3">Библиотека</h1>
+            <nav>
+                <a href="/CreateBook" class="btn btn-outline-light me-2">Добавить книгу</a>
+                <a href="/Books" class="btn btn-outline-light">Все книги</a>
+            </nav>
+        </div>
+    </header>
+    <div class="container mt-5">
+        <div class="card shadow-lg p-4">
+            <h2 class="text-center mb-4">Список книг</h2>
+            <table class="table table-bordered table-striped">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Название</th>
+                        <th>Описание</th>
+                        <th>Автор</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+            <button class="btn btn-primary w-100 mb-3" id="sendBtn" onclick="getBooks()">Получить книги</button>
+            <div class="mb-3">
+                <label class="form-label">Введите ID книги:</label>
+                <input type="text" class="form-control" id="bookIdInput" />
+            </div>
+            <button class="btn btn-success w-100" id="sendBtn2" onclick="getBook()">Получить книгу по ID</button>
+            <div class="mt-4 p-3 bg-white rounded shadow-sm">
+                <h4>Детали книги:</h4>
+                <p><strong>Название:</strong> <span id="bookTitle"></span></p>
+                <p><strong>Описание:</strong> <span id="bookDescription"></span></p>
+                <p><strong>Автор:</strong> <span id="bookAuthor"></span></p>
+            </div>
+        </div>
+    </div>
+    <script>
+        async function getBooks() {
+            const response = await fetch("/Api/Books", {
+                method: "GET",
+                headers: { "Accept": "application/json" }
+            });
+            if (response.ok === true) {
+                const books = await response.json();
+                const rows = document.querySelector("tbody");
+                rows.innerHTML = "";
+                books.forEach(book => rows.append(row(book)));
+            }
+        }
+        async function getBook() {
+            let input = document.getElementById('bookIdInput');
+            const response = await fetch(`/Api/Book/${input.value}`, {
+                method: "GET",
+                headers: { "Accept": "application/json" }
+            });
+            if (response.ok === true) {
+                const book = await response.json();
+                document.getElementById("bookTitle").innerText = book.title;
+                document.getElementById("bookDescription").innerText = book.description;
+                document.getElementById("bookAuthor").innerText = book.author;
+            } else {
+                const error = await response.json();
+                console.log(error.message);
+            }
+        }
+        function row(book) {
+            const tr = document.createElement("tr");
+            tr.setAttribute("data-rowid", book.Id);
+
+            const title = document.createElement("td");
+            title.append(book.title);
+            tr.append(title);
+
+            const desc = document.createElement("td");
+            desc.append(book.description);
+            tr.append(desc);
+
+            const authorTd = document.createElement("td");
+            authorTd.append(book.author);
+            tr.append(authorTd);
+
+            return tr;
+        }
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

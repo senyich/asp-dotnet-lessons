@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{993AE750-39A5-49F7-AD1C-B74AAF0E3A2E}|FirstLesson.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\firstlesson\\handlers\\requesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993AE750-39A5-49F7-AD1C-B74AAF0E3A2E}|FirstLesson.csproj|solutionrelative:handlers\\requesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993AE750-39A5-49F7-AD1C-B74AAF0E3A2E}|FirstLesson.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\firstlesson\\services\\bookdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993AE750-39A5-49F7-AD1C-B74AAF0E3A2E}|FirstLesson.csproj|solutionrelative:services\\bookdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993AE750-39A5-49F7-AD1C-B74AAF0E3A2E}|FirstLesson.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\firstlesson\\pages\\addbookpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{993AE750-39A5-49F7-AD1C-B74AAF0E3A2E}|FirstLesson.csproj|solutionrelative:pages\\addbookpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993AE750-39A5-49F7-AD1C-B74AAF0E3A2E}|FirstLesson.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\firstlesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993AE750-39A5-49F7-AD1C-B74AAF0E3A2E}|FirstLesson.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993AE750-39A5-49F7-AD1C-B74AAF0E3A2E}|FirstLesson.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\firstlesson\\bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993AE750-39A5-49F7-AD1C-B74AAF0E3A2E}|FirstLesson.csproj|solutionrelative:bookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993AE750-39A5-49F7-AD1C-B74AAF0E3A2E}|FirstLesson.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\firstlesson\\pages\\allbooks.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{993AE750-39A5-49F7-AD1C-B74AAF0E3A2E}|FirstLesson.csproj|solutionrelative:pages\\allbooks.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993AE750-39A5-49F7-AD1C-B74AAF0E3A2E}|FirstLesson.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\firstlesson\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{993AE750-39A5-49F7-AD1C-B74AAF0E3A2E}|FirstLesson.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993AE750-39A5-49F7-AD1C-B74AAF0E3A2E}|FirstLesson.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\firstlesson\\pages\\mainpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{993AE750-39A5-49F7-AD1C-B74AAF0E3A2E}|FirstLesson.csproj|solutionrelative:pages\\mainpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993AE750-39A5-49F7-AD1C-B74AAF0E3A2E}|FirstLesson.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\firstlesson\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993AE750-39A5-49F7-AD1C-B74AAF0E3A2E}|FirstLesson.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AllBooks.html",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\Pages\\AllBooks.html",
+              "RelativeDocumentMoniker": "Pages\\AllBooks.html",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\Pages\\AllBooks.html",
+              "RelativeToolTip": "Pages\\AllBooks.html",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-27T12:56:26.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookContext.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\BookContext.cs",
+              "RelativeDocumentMoniker": "BookContext.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\BookContext.cs",
+              "RelativeToolTip": "BookContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:56:26.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddBookPage.html",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\Pages\\AddBookPage.html",
+              "RelativeDocumentMoniker": "Pages\\AddBookPage.html",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\Pages\\AddBookPage.html",
+              "RelativeToolTip": "Pages\\AddBookPage.html",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-27T12:56:26.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:56:26.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestHandler.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\Handlers\\RequestHandler.cs",
+              "RelativeDocumentMoniker": "Handlers\\RequestHandler.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\Handlers\\RequestHandler.cs",
+              "RelativeToolTip": "Handlers\\RequestHandler.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:56:26.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:56:26.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDbService.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\Services\\BookDbService.cs",
+              "RelativeDocumentMoniker": "Services\\BookDbService.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\Services\\BookDbService.cs",
+              "RelativeToolTip": "Services\\BookDbService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:56:26.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T12:56:26.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.html",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\Pages\\MainPage.html",
+              "RelativeDocumentMoniker": "Pages\\MainPage.html",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\Pages\\MainPage.html",
+              "RelativeToolTip": "Pages\\MainPage.html",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAowGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-27T12:56:26.405Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
