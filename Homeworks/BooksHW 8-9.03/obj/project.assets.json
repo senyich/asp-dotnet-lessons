@@ -748,11 +748,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\FirstLesson.csproj",
+      "projectUniqueName": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\BooksHW 8-9.03\\FirstLesson.csproj",
       "projectName": "FirstLesson",
-      "projectPath": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\FirstLesson.csproj",
+      "projectPath": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\BooksHW 8-9.03\\FirstLesson.csproj",
       "packagesPath": "C:\\Users\\arsen\\.nuget\\packages\\",
-      "outputPath": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\FirstLesson\\obj\\",
+      "outputPath": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\BooksHW 8-9.03\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
