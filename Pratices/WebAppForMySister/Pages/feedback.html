@@ -205,13 +205,12 @@
         <a href="/contacts">Контакты</a>
         <a href="/review">Отзывы клиентов</a>
     </header>
-
     <div class="form-container">
         <h2>Оставить Фидбэк</h2>
-        <form>
-            <input type="text" placeholder="Ваше имя" value="Аноним" required>
-            <input type="text" placeholder="Ваш юз в дискорде" required>
-            <textarea placeholder="Ваше сообщение" rows="4" required></textarea>
+        <form method="GET" id="reviewForm" action="/api/add-review">
+            <input type="text" name="name" placeholder="Ваше имя" value="Аноним" required>
+            <input type="text" name="discord" placeholder="Ваш юз в дискорде" required>
+            <textarea placeholder="Ваше сообщение" name="content" rows="4" required></textarea>
             <button type="submit">Отправить</button>
         </form>
     </div>

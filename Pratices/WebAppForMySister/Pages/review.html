@@ -141,6 +141,62 @@
     </style>
 </head>
 <body>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const form = document.querySelector("form");
+            const reviewsSection = document.querySelector(".reviews-section");
+            async function getReviews() {
+                const response = await fetch("/api/get-reviews", {
+                    method: "GET",
+                    headers: { "Accept": "application/json" }
+                });
+                if (response.ok) {
+                    const reviews = await response.json();
+                    reviewsSection.innerHTML = "<h1>Отзывы</h1>";
+                    reviews.forEach(review => reviewsSection.appendChild(createReviewElement(review)));
+                }
+            }
+            function createReviewElement(review) {
+                const reviewDiv = document.createElement("div");
+                reviewDiv.classList.add("review");
+
+                const headerDiv = document.createElement("div");
+                headerDiv.classList.add("review-header");
+                headerDiv.textContent = `${review.name} (Discord: ${review.discord})`;
+
+                const contentDiv = document.createElement("div");
+                contentDiv.classList.add("review-content");
+                const paragraph = document.createElement("p");
+                paragraph.textContent = review.content;
+
+                contentDiv.appendChild(paragraph);
+                reviewDiv.appendChild(headerDiv);
+                reviewDiv.appendChild(contentDiv);
+
+                return reviewDiv;
+            }
+            getReviews();
+            form.addEventListener("submit", function (event) {
+                event.preventDefault();
+                let isValid = true;
+                const inputs = form.querySelectorAll("input, textarea");
+                inputs.forEach(input => {
+                    if (!input.value.trim()) {
+                        isValid = false;
+                        input.classList.add("error");
+                    } else {
+                        input.classList.remove("error");
+                    }
+                });
+                if (isValid) {
+                    alert("Форма успешно отправлена!");
+                    form.reset();
+                } else {
+                    alert("Пожалуйста, заполните все поля формы.");
+                }
+            });
+        });
+    </script>
     <header>
         <a href="/mainpage">Главная</a>
         <a href="/feedback">Фидбэк</a>
@@ -151,13 +207,6 @@
     <div class="container">
         <div class="reviews-section">
             <h1>Отзывы</h1>
-            <div class="review">
-                <div class="review-header">Иван Петров (Discord: IvanPetrov#1234)</div>
-                <div class="review-content">
-                    <p>Отличная работа, все сделано быстро и качественно. Мне очень понравилось! Рекомендую всем!</p>
-                </div>
-            </div>
-            <!-- Дополнительные отзывы можно добавить по аналогии -->
         </div>
     </div>
 </body>
