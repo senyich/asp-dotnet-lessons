@@ -1,247 +1,224 @@
 <!DOCTYPE html>
 <html lang="ru">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Главная страница</title>
-        <style>
-            /* Основные стили */
-            body {
-                font-family: 'Arial', sans-serif;
-                margin: 0;
-                padding: 0;
-                background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
-                display: flex;
-                flex-direction: column;
-                align-items: center;
-                color: #333;
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Главная страница</title>
+    <link href="styles/mainStyles.css" rel="stylesheet" />
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            color: #333;
+            animation: fadeIn 1.5s ease-in-out;
+        }
+
+        /* Анимация появления всей страницы */
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
             }
 
-            header {
-                background: var(--primary-color);
-                padding: 20px;
-                text-align: left;
-                box-shadow: 0 4px 6px var(--shadow-color);
-                width: 100%;
+            100% {
+                opacity: 1;
+            }
+        }
+
+        header {
+            background: var(--primary-color);
+            padding: 20px;
+            text-align: left;
+            box-shadow: 0 4px 6px var(--shadow-color);
+            width: 100%;
+            animation: slideIn 1s ease-out;
+        }
+
+        /* Анимация появления заголовка */
+        @keyframes slideIn {
+            0% {
+                transform: translateY(-100%);
+                opacity: 0;
             }
 
-            header a {
-                color: var(--text-color);
-                text-decoration: none;
-                margin: 0 15px;
-                font-size: 16px;
-                font-weight: bold;
-                padding: 10px 20px;
-                border-radius: 25px;
-                transition: background-color 0.3s ease, transform 0.3s ease;
+            100% {
+                transform: translateY(0);
+                opacity: 1;
             }
+        }
+
+        header a {
+            color: var(--text-color);
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 16px;
+            font-weight: bold;
+            padding: 10px 20px;
+            border-radius: 25px;
+            transition: background-color 0.3s ease, transform 0.3s ease, color 0.3s ease;
+        }
 
             header a:hover {
                 background-color: var(--hover-color);
-                transform: translateY(-2px);
-            }
-
-            .container {
-                display: flex;
-                justify-content: space-between;
-                width: 90%;
-                max-width: 1200px;
-                margin-top: 40px;
-                gap: 50px;
-            }
-
-            .text-section {
-                width: 60%;
-                padding: 30px;
-                background: rgba(255, 255, 255, 0.9);
-                border-radius: 15px;
-                box-shadow: 0 8px 16px var(--shadow-color);
-                font-size: 18px;
-                line-height: 1.8;
-                color: #444;
-                transition: transform 0.3s ease, box-shadow 0.3s ease;
-            }
-
-            .text-section:hover {
                 transform: translateY(-5px);
-                box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+                color: white;
             }
 
-            .text-section h1 {
-                font-size: 36px;
-                color: var(--primary-color);
-                margin-bottom: 20px;
-                text-align: center;
+        .container {
+            display: flex;
+            justify-content: space-between;
+            width: 90%;
+            max-width: 1200px;
+            margin-top: 40px;
+            gap: 50px;
+            animation: slideUp 1.5s ease-out;
+        }
+
+        /* Анимация появления контейнера */
+        @keyframes slideUp {
+            0% {
+                transform: translateY(50px);
+                opacity: 0;
             }
 
-            .text-section p {
-                margin-bottom: 20px;
-                text-align: justify;
+            100% {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        .text-section {
+            width: 60%;
+            padding: 30px;
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 15px;
+            box-shadow: 0 8px 16px var(--shadow-color);
+            font-size: 18px;
+            line-height: 1.8;
+            color: #444;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            animation: fadeInUp 1s ease-out;
+        }
+
+        /* Появление текста */
+        @keyframes fadeInUp {
+            0% {
+                transform: translateY(30px);
+                opacity: 0;
             }
 
-            .sidebar {
-                width: 35%;
-                background: rgba(255, 255, 255, 0.9);
-                padding: 30px;
-                border-radius: 15px;
-                box-shadow: 0 8px 16px var(--shadow-color);
-                transition: transform 0.3s ease, box-shadow 0.3s ease;
+            100% {
+                transform: translateY(0);
+                opacity: 1;
             }
+        }
 
-            .sidebar:hover {
-                transform: translateY(-5px);
-                box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
-            }
+        .sidebar {
+            width: 35%;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 8px 16px var(--shadow-color);
+            text-align: center;
+            animation: fadeInUp 1s ease-out;
+        }
 
             .sidebar h2 {
-                color: var(--primary-color);
-                text-align: center;
-                font-size: 28px;
+                color: darkred;
+                font-size: 24px;
                 margin-bottom: 20px;
             }
 
-            .sidebar ul {
-                list-style-type: none;
-                padding: 0;
+        .price-list {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+
+        .price-item {
+            font-weight: bold;
+            color: darkred;
+            margin: 10px 0;
+            transition: color 0.3s ease;
+        }
+
+        .gif-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            transition: transform 0.3s ease;
+            animation: gifZoom 2s ease-in-out infinite alternate;
+        }
+
+        /* Анимация для gif */
+        @keyframes gifZoom {
+            0% {
+                transform: scale(1);
             }
 
-            .sidebar li {
-                padding: 15px;
-                border-bottom: 1px solid #eee;
-                font-size: 16px;
-                color: #555;
-                transition: background-color 0.3s ease;
-                display: flex;
-                align-items: center;
-                gap: 10px;
+            100% {
+                transform: scale(1.05);
             }
+        }
 
-            .sidebar li:last-child {
-                border-bottom: none;
-            }
+        .price-item:hover {
+            color: #e74c3c; /* Изменение цвета при наведении */
+        }
 
-            .sidebar li:hover {
-                background-color: #f9f9f9;
-            }
+        /* Анимации при наведении */
+        header a:hover {
+            background-color: var(--hover-color);
+            transform: translateY(-5px);
+            color: white;
+        }
 
-            /* Стили для гифки */
-            .gif-container {
-                text-align: center;
-                margin-bottom: 20px;
-            }
+        .text-section:hover {
+            transform: scale(1.05);
+            box-shadow: 0 12px 24px var(--shadow-color);
+        }
 
-            .gif-container img {
-                max-width: 100%;
-                height: auto;
-                border-radius: 10px;
-            }
+        .sidebar:hover {
+            transform: scale(1.05);
+            box-shadow: 0 12px 24px var(--shadow-color);
+        }
 
-            /* Иконки для списка */
-            .sidebar li::before {
-                font-size: 20px;
-            }
+        .gif-container img:hover {
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <a href="/mainpage">Главная</a>
+        <a href="/feedback">Фидбэк</a>
+        <a href="/contacts">Контакты</a>
+        <a href="/review">Отзывы клиентов</a>
+    </header>
 
-            /* Градиент для заголовков */
-            .sidebar h3 {
-                background: linear-gradient(135deg, var(--primary-color), var(--hover-color));
-                color: white;
-                padding: 10px;
-                border-radius: 8px;
-                text-align: center;
-                margin: 15px 0;
-            }
-
-            /* Анимация для элементов списка */
-            @keyframes fadeIn {
-                from {
-                    opacity: 0;
-                    transform: translateY(10px);
-                }
-                to {
-                    opacity: 1;
-                    transform: translateY(0);
-                }
-            }
-
-            .sidebar li {
-                animation: fadeIn 0.5s ease-in-out;
-            }
-
-            /* Переменные для цветов */
-            :root {
-                --primary-color: #8a273a;
-                --hover-color: #780000;
-                --text-color: white;
-                --background-color: #88324e;
-                --shadow-color: rgba(0, 0, 0, 0.1);
-            }
-
-            /* Медиа-запросы для мобильных устройств */
-            @media (max-width: 768px) {
-                .container {
-                    flex-direction: column;
-                    align-items: center;
-                    gap: 30px;
-                }
-
-                .text-section, .sidebar {
-                    width: 100%;
-                    padding: 20px;
-                }
-
-                .text-section h1 {
-                    font-size: 28px;
-                }
-
-                .text-section p {
-                    font-size: 16px;
-                }
-
-                .sidebar h2 {
-                    font-size: 24px;
-                }
-
-                .sidebar li {
-                    font-size: 14px;
-                }
-
-                header a {
-                    font-size: 14px;
-                    padding: 8px 16px;
-                }
-            }
-        </style>
-    </head>
-    <body>
-        <header>
-            <a href="/mainpage">Главная</a>
-            <a href="/feedback">Фидбэк</a>
-            <a href="/portfolio">Мои работы</a>
-        </header>
-        
-        <div class="container">
-            <div class="text-section">
-                <h1>Добро пожаловать!</h1>
-                <p>Тут будет находиться твой приветственный текст</p>
+    <div class="container">
+        <div class="text-section">
+            <h1>Добро пожаловать!</h1>
+            <p>Тут будет находиться твой приветственный текст</p>
+        </div>
+        <div class="sidebar">
+            <div class="gif-container">
+                <img src="/images/pricegif.gif" alt="GIF">
             </div>
-            <div class="sidebar">
-                <!-- Гифка вместо текста "Price List" -->
-                <div class="gif-container">
-                    <img src="pricegif.gif">
-                </div>
-                <ul>
-                    <li><h3>Обычные:</h3></li>
-                    <li>Аватарка + Баннер - 300 руб.</li>
-                    <li>Аватарка - 100 руб.</li>
-                    <li>Баннер - 200 руб.</li>
-                </ul>
-                <ul>
-                    <li><h3>Анимированные:</h3></li>
-                    <li>Аватарка + Баннер - 500 руб.</li>
-                    <li>Аватарка - 200 руб.</li>
-                    <li>Баннер - 300 руб.</li>
-                </ul>
+            <h2>Прайс-лист</h2>
+            <div class="price-list">
+                <div class="price-item">Обычные</div>
+                <div>Аватарка + Баннер - <span class="price-item">300 руб.</span></div>
+                <div>Аватарка - <span class="price-item">100 руб.</span></div>
+                <div>Баннер - <span class="price-item">200 руб.</span></div>
+                <div class="price-item">Анимированные</div>
+                <div>Аватарка + Баннер - <span class="price-item">500 руб.</span></div>
+                <div>Аватарка - <span class="price-item">200 руб.</span></div>
+                <div>Баннер - <span class="price-item">300 руб.</span></div>
             </div>
         </div>
-    </body>
+    </div>
+</body>
 </html>

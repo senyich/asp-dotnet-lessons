@@ -1,0 +1,52 @@
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\bin\Debug\net8.0\appsettings.json
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\bin\Debug\net8.0\Depensy Injection.staticwebassets.runtime.json
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\bin\Debug\net8.0\Depensy Injection.exe
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\bin\Debug\net8.0\Depensy Injection.deps.json
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\bin\Debug\net8.0\Depensy Injection.runtimeconfig.json
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\bin\Debug\net8.0\Depensy Injection.dll
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\bin\Debug\net8.0\Depensy Injection.pdb
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\obj\Debug\net8.0\Depensy Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\obj\Debug\net8.0\Depensy Injection.AssemblyInfoInputs.cache
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\obj\Debug\net8.0\Depensy Injection.AssemblyInfo.cs
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\obj\Debug\net8.0\Depensy Injection.csproj.CoreCompileInputs.cache
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\obj\Debug\net8.0\Depensy Injection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\obj\Debug\net8.0\staticwebassets\msbuild.Depensy Injection.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\obj\Debug\net8.0\staticwebassets\msbuild.build.Depensy Injection.props
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Depensy Injection.props
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Depensy Injection.props
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\obj\Debug\net8.0\scopedcss\bundle\Depensy Injection.styles.css
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\obj\Debug\net8.0\Depensy Injection.dll
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\obj\Debug\net8.0\refint\Depensy Injection.dll
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\obj\Debug\net8.0\Depensy Injection.pdb
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\obj\Debug\net8.0\Depensy Injection.genruntimeconfig.cache
+C:\Users\top_acdemy_student\source\repos\Depensy Injection\obj\Debug\net8.0\ref\Depensy Injection.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\bin\Debug\net8.0\appsettings.Development.json
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\bin\Debug\net8.0\appsettings.json
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\bin\Debug\net8.0\Depensy Injection.exe
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\bin\Debug\net8.0\Depensy Injection.deps.json
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\bin\Debug\net8.0\Depensy Injection.runtimeconfig.json
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\bin\Debug\net8.0\Depensy Injection.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\bin\Debug\net8.0\Depensy Injection.pdb
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\Depensy Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\Depensy Injection.AssemblyInfoInputs.cache
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\Depensy Injection.AssemblyInfo.cs
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\Depensy Injection.csproj.CoreCompileInputs.cache
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\Depensy Injection.MvcApplicationPartsAssemblyInfo.cache
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\Depensy Injection.sourcelink.json
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\staticwebassets.build.json
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\staticwebassets.development.json
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\staticwebassets\msbuild.Depensy Injection.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\staticwebassets\msbuild.build.Depensy Injection.props
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Depensy Injection.props
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Depensy Injection.props
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\staticwebassets.pack.json
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\scopedcss\bundle\Depensy Injection.styles.css
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\Depensy Injection.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\refint\Depensy Injection.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\Depensy Injection.pdb
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\Depensy Injection.genruntimeconfig.cache
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\DepensyInjectionHW 13.03\obj\Debug\net8.0\ref\Depensy Injection.dll

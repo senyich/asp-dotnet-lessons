@@ -1,22 +1,15 @@
-using WebAppForMySister.Services;
+using WebAppForMySister.MiddlewareComponents;
 
-RequestDelegateService requestService = new ();
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
+
 app.UseStaticFiles();
-app.Map("/mainpage", (appBuilder) =>
-{
-    appBuilder.Run(requestService.HandleMainPageRequest);
-});
-app.Map("/feedback", (appBuilder) =>
-{
-    appBuilder.Run(requestService.HandleFeedbackPageRequest);
-});
 
-app.Map("/portfolio", (appBuilder) =>
-{
-    appBuilder.Run(requestService.HandlePortfolioPageRequest);
-});
+app.Map("/mainpage", appBuilder => appBuilder.UseMiddleware<MainPageMiddleware>());
+app.Map("/feedback", appBuilder => appBuilder.UseMiddleware<FeedbackPageMiddleware>());
+app.Map("/contacts", appBuilder => appBuilder.UseMiddleware<ContactsPageMiddleware>());
+app.Map("/review", appBuilder => appBuilder.UseMiddleware<ReviewPageMiddleware>());
 
-app.Run(requestService.HandleMainPageRequest);
+app.MapGet("/", () => Results.Redirect("/mainpage"));
+
 app.Run();

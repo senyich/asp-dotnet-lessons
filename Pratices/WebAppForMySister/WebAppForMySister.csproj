@@ -13,4 +13,8 @@
     <None Remove="css\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\images\pricegif.gif" />
+  </ItemGroup>
+
 </Project>

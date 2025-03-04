@@ -25,3 +25,4 @@ C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Pratices\WebAppForMySister\o
 C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Pratices\WebAppForMySister\obj\Debug\net8.0\WebAppForMySister.genruntimeconfig.cache
 C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Pratices\WebAppForMySister\obj\Debug\net8.0\ref\WebAppForMySister.dll
 C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Pratices\WebAppForMySister\bin\Debug\net8.0\libman.json
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Pratices\WebAppForMySister\bin\Debug\net8.0\WebAppForMySister.staticwebassets.runtime.json
