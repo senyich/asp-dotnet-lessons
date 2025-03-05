@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{CB9BED19-EFE0-4E65-B77D-CFA6BA12CE02}|DepencyContainer.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\depensyinjectionhw 13.03\\3-4\\depencycontainer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB9BED19-EFE0-4E65-B77D-CFA6BA12CE02}|DepencyContainer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9BED19-EFE0-4E65-B77D-CFA6BA12CE02}|DepencyContainer.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\depensyinjectionhw 13.03\\3-4\\depencycontainer\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB9BED19-EFE0-4E65-B77D-CFA6BA12CE02}|DepencyContainer.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\DepensyInjectionHW 13.03\\3-4\\DepencyContainer\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Services\\BookService.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\DepensyInjectionHW 13.03\\3-4\\DepencyContainer\\Services\\BookService.cs",
+              "RelativeToolTip": "Services\\BookService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:12:08.847Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\DepensyInjectionHW 13.03\\3-4\\DepencyContainer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\DepensyInjectionHW 13.03\\3-4\\DepencyContainer\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\DepensyInjectionHW 13.03\\3-4\\DepencyContainer\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T13:11:07.164Z",
               "EditorCaption": ""

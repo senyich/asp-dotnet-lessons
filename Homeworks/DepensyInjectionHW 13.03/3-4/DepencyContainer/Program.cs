@@ -20,7 +20,7 @@ public class Book
 
 class Program
 {
-    static void Main()
+    static void Main()//не стал заморачиваться с логером, в задании 1-2 он есть, работу с DI контейнером я тут показал, да и в целом я с ним разобрался)
     {
         string filePath = "books.txt";
         var serviceProvider = new ServiceCollection().AddSingleton<IBookService, BookService>()
@@ -34,10 +34,12 @@ class Program
         bookService.PrintBooks();
 
         bookService.SaveToFile(filePath);
+        Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine("Книги сохранены в файл");
 
         bookService.LoadFromFile(filePath, 1);
         Console.WriteLine("Книги загружены с файла");
+        Console.ForegroundColor = ConsoleColor.White;
         bookService.PrintBooks();
     }
 }
