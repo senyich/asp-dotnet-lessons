@@ -1,0 +1,213 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Отзывы</title>
+    <link href="styles/mainStyles.css" rel="stylesheet" />
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            color: #333;
+            animation: fadeIn 1.5s ease-in-out;
+        }
+
+        /* Анимация появления всей страницы */
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+            }
+
+            100% {
+                opacity: 1;
+            }
+        }
+
+        header {
+            background: var(--primary-color);
+            padding: 20px;
+            text-align: left;
+            box-shadow: 0 4px 6px var(--shadow-color);
+            width: 100%;
+            animation: slideIn 1s ease-out;
+        }
+
+        /* Анимация заголовка при загрузке */
+        @keyframes slideIn {
+            0% {
+                transform: translateY(-100%);
+                opacity: 0;
+            }
+
+            100% {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        header a {
+            color: var(--text-color);
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 16px;
+            font-weight: bold;
+            padding: 10px 20px;
+            border-radius: 25px;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+        }
+
+            header a:hover {
+                background-color: var(--hover-color);
+                transform: translateY(-2px);
+            }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 90%;
+            max-width: 1200px;
+            margin-top: 40px;
+            animation: fadeInUp 1.5s ease-out;
+        }
+
+        /* Анимация для контейнера отзывов */
+        @keyframes fadeInUp {
+            0% {
+                transform: translateY(50px);
+                opacity: 0;
+            }
+
+            100% {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        .reviews-section {
+            width: 100%;
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 15px;
+            box-shadow: 0 8px 16px var(--shadow-color);
+            padding: 30px;
+            animation: fadeInUp 1s ease-out;
+        }
+
+        .review {
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: 10px;
+            box-shadow: 0 4px 8px var(--shadow-color);
+            margin-bottom: 20px;
+            padding: 20px;
+            animation: fadeInUp 1s ease-out;
+        }
+
+        .review-header {
+            font-weight: bold;
+            font-size: 18px;
+            color: darkred;
+            margin-bottom: 10px;
+        }
+
+        .review-content {
+            font-size: 16px;
+            line-height: 1.6;
+            color: #444;
+        }
+
+        .discord {
+            font-style: italic;
+            color: #777;
+        }
+
+        /* Анимация для отзыва */
+        @keyframes fadeInUp {
+            0% {
+                transform: translateY(20px);
+                opacity: 0;
+            }
+
+            100% {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const form = document.querySelector("form");
+            const reviewsSection = document.querySelector(".reviews-section");
+            async function getReviews() {
+                const response = await fetch("/api/get-reviews", {
+                    method: "GET",
+                    headers: { "Accept": "application/json" }
+                });
+                if (response.ok) {
+                    const reviews = await response.json();
+                    reviewsSection.innerHTML = "<h1>Отзывы</h1>";
+                    reviews.forEach(review => reviewsSection.appendChild(createReviewElement(review)));
+                }
+            }
+            function createReviewElement(review) {
+                const reviewDiv = document.createElement("div");
+                reviewDiv.classList.add("review");
+
+                const headerDiv = document.createElement("div");
+                headerDiv.classList.add("review-header");
+                headerDiv.textContent = `${review.name} (Discord: ${review.discord})`;
+
+                const contentDiv = document.createElement("div");
+                contentDiv.classList.add("review-content");
+                const paragraph = document.createElement("p");
+                paragraph.textContent = review.content;
+
+                contentDiv.appendChild(paragraph);
+                reviewDiv.appendChild(headerDiv);
+                reviewDiv.appendChild(contentDiv);
+
+                return reviewDiv;
+            }
+            getReviews();
+            form.addEventListener("submit", function (event) {
+                event.preventDefault();
+                let isValid = true;
+                const inputs = form.querySelectorAll("input, textarea");
+                inputs.forEach(input => {
+                    if (!input.value.trim()) {
+                        isValid = false;
+                        input.classList.add("error");
+                    } else {
+                        input.classList.remove("error");
+                    }
+                });
+                if (isValid) {
+                    alert("Форма успешно отправлена!");
+                    form.reset();
+                } else {
+                    alert("Пожалуйста, заполните все поля формы.");
+                }
+            });
+        });
+    </script>
+    <header>
+        <a href="/mainpage">Главная</a>
+        <a href="/feedback">Фидбэк</a>
+        <a href="/contacts">Контакты</a>
+        <a href="/review">Отзывы клиентов</a>
+    </header>
+
+    <div class="container">
+        <div class="reviews-section">
+            <h1>Отзывы</h1>
+        </div>
+    </div>
+</body>
+</html>
