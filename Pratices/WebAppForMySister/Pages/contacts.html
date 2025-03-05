@@ -17,18 +17,14 @@
             color: #333;
             animation: fadeIn 1.5s ease-in-out;
         }
-
-        /* Анимация для страницы */
         @keyframes fadeIn {
             0% {
                 opacity: 0;
             }
-
             100% {
                 opacity: 1;
             }
         }
-
         header {
             background: var(--primary-color);
             padding: 20px;
@@ -37,7 +33,6 @@
             width: 100%;
             animation: slideIn 1s ease-out;
         }
-
         /* Анимация для заголовка */
         @keyframes slideIn {
             0% {
@@ -50,7 +45,6 @@
                 opacity: 1;
             }
         }
-
         header a {
             color: var(--text-color);
             text-decoration: none;
@@ -61,12 +55,10 @@
             border-radius: 25px;
             transition: background-color 0.3s ease, transform 0.3s ease;
         }
-
             header a:hover {
                 background-color: var(--hover-color);
                 transform: translateY(-2px);
             }
-
         .contact-container {
             width: 60%;
             max-width: 600px;
@@ -79,7 +71,6 @@
             text-align: center;
             animation: fadeInUp 1.5s ease-out;
         }
-
         /* Анимация для появления контейнера */
         @keyframes fadeInUp {
             0% {
@@ -92,26 +83,22 @@
                 opacity: 1;
             }
         }
-
         .contact-container:hover {
             transform: translateY(-5px);
             box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
         }
-
         .contact-container h2 {
             color: var(--primary-color);
             font-size: 28px;
             margin-bottom: 20px;
             animation: fadeInUp 1s ease-out;
         }
-
         .contact-item {
             margin: 20px 0;
             font-size: 20px;
             font-weight: bold;
             color: #222;
         }
-
         .contact-button {
             display: inline-block;
             padding: 12px 25px;
@@ -124,28 +111,24 @@
             text-decoration: none;
             transition: background 0.3s ease, transform 0.2s ease;
         }
-
-            .contact-button:hover {
-                background: var(--hover-color);
-                transform: scale(1.05);
-            }
-
+        .contact-button:hover {
+            background: var(--hover-color);
+            transform: scale(1.05);
+        }
         @media (max-width: 768px) {
             .contact-container {
                 width: 90%;
                 padding: 20px;
             }
         }
-
         @media (max-width: 480px) {
             .contact-container {
                 width: 95%;
                 padding: 15px;
             }
-
-                .contact-container h2 {
-                    font-size: 22px;
-                }
+            .contact-container h2 {
+                font-size: 22px;
+            }
         }
     </style>
 </head>
@@ -160,7 +143,7 @@
 
     <div class="contact-container">
         <h2>Свяжитесь со мной</h2>
-        <div class="contact-item">⬇️Основной магазин здесь⬇️ <br><a href="https://discord.gg/2hXZqRDk" class="contact-button">Discord</a></div>
+        <div class="contact-item">Основной магазин здесь <br><a href="https://discord.gg/2hXZqRDk" class="contact-button">Discord</a></div>
         <div class="contact-item">Ознакомьтесь с моими проектами в <br><a href="https://t.me/qwex_v8" class="contact-button">Телеграм-канале</a></div>
     </div>
 </body>

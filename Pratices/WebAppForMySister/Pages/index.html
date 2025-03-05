@@ -17,18 +17,15 @@
             color: #333;
             animation: fadeIn 1.5s ease-in-out;
         }
-
         /* Анимация появления всей страницы */
         @keyframes fadeIn {
             0% {
                 opacity: 0;
             }
-
             100% {
                 opacity: 1;
             }
         }
-
         header {
             background: var(--primary-color);
             padding: 20px;
@@ -37,7 +34,6 @@
             width: 100%;
             animation: slideIn 1s ease-out;
         }
-
         /* Анимация появления заголовка */
         @keyframes slideIn {
             0% {
@@ -50,7 +46,6 @@
                 opacity: 1;
             }
         }
-
         header a {
             color: var(--text-color);
             text-decoration: none;
@@ -61,13 +56,21 @@
             border-radius: 25px;
             transition: background-color 0.3s ease, transform 0.3s ease, color 0.3s ease;
         }
-
-            header a:hover {
-                background-color: var(--hover-color);
-                transform: translateY(-5px);
-                color: white;
-            }
-
+        header a:hover {
+            background-color: var(--hover-color);
+            transform: translateY(-5px);
+            color: white;
+        }
+        .textA{
+            color: var(--text-color);
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 16px;
+            font-weight: bold;
+            padding: 10px 20px;
+            border-radius: 25px;
+            background-color: var(--primary-color);
+        }
         .container {
             display: flex;
             justify-content: space-between;
@@ -77,7 +80,6 @@
             gap: 50px;
             animation: slideUp 1.5s ease-out;
         }
-
         /* Анимация появления контейнера */
         @keyframes slideUp {
             0% {
@@ -90,7 +92,6 @@
                 opacity: 1;
             }
         }
-
         .text-section {
             width: 60%;
             padding: 30px;
@@ -103,20 +104,17 @@
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             animation: fadeInUp 1s ease-out;
         }
-
         /* Появление текста */
         @keyframes fadeInUp {
             0% {
                 transform: translateY(30px);
                 opacity: 0;
             }
-
             100% {
                 transform: translateY(0);
                 opacity: 1;
             }
         }
-
         .sidebar {
             width: 35%;
             background: rgba(255, 255, 255, 0.9);
@@ -126,25 +124,21 @@
             text-align: center;
             animation: fadeInUp 1s ease-out;
         }
-
-            .sidebar h2 {
-                color: darkred;
-                font-size: 24px;
-                margin-bottom: 20px;
-            }
-
+        .sidebar h2 {
+            color: darkred;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
         .price-list {
             font-size: 18px;
             line-height: 1.6;
         }
-
         .price-item {
             font-weight: bold;
             color: darkred;
             margin: 10px 0;
             transition: color 0.3s ease;
         }
-
         .gif-container img {
             max-width: 100%;
             height: auto;
@@ -152,39 +146,32 @@
             transition: transform 0.3s ease;
             animation: gifZoom 2s ease-in-out infinite alternate;
         }
-
         /* Анимация для gif */
         @keyframes gifZoom {
             0% {
                 transform: scale(1);
             }
-
             100% {
                 transform: scale(1.05);
             }
         }
-
         .price-item:hover {
             color: #e74c3c; /* Изменение цвета при наведении */
         }
-
         /* Анимации при наведении */
         header a:hover {
             background-color: var(--hover-color);
             transform: translateY(-5px);
             color: white;
         }
-
         .text-section:hover {
             transform: scale(1.05);
             box-shadow: 0 12px 24px var(--shadow-color);
         }
-
         .sidebar:hover {
             transform: scale(1.05);
             box-shadow: 0 12px 24px var(--shadow-color);
         }
-
         .gif-container img:hover {
             transform: scale(1.05);
         }
@@ -201,7 +188,7 @@
     <div class="container">
         <div class="text-section">
             <h1>Добро пожаловать!</h1>
-            <p>Тут будет находиться твой приветственный текст</p>
+            <p>Искали дизайн для своего дискорд сервера или просто для оформления профиля? С радостью вам помогу! Я <b>Qwex</b>, начинающий дизайнер, который только развивается. Здесь вы можете посмотреть мои работы и оставить отзывы. Заказы я принимаю в своём дискорд сервере в тикетах, ссылка на дискорд есть в <a class = "textA" href = "/contacts">"контакты"</a>, там вы найдете более подробную информацию)</p>
         </div>
         <div class="sidebar">
             <div class="gif-container">

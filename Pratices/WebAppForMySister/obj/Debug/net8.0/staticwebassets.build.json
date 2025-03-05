@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lkCXb1xZ4nDjFNQWR5qMXKDKcF3EFEAAdHGMjcpKm+0=",
+  "Hash": "1VMQKHY3TmI+Dc6cxksHqMRsL5ouVvK0tlCOC2iUAaM=",
   "Source": "WebAppForMySister",
   "BasePath": "_content/WebAppForMySister",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebAppForMySister\\wwwroot",
       "Source": "WebAppForMySister",
-      "ContentRoot": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\top_acdemy_student\\Source\\Repos\\asp-dotnet-lessons\\Pratices\\WebAppForMySister\\wwwroot\\",
       "BasePath": "_content/WebAppForMySister",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\wwwroot\\images\\pricegif.gif",
+      "Identity": "C:\\Users\\top_acdemy_student\\Source\\Repos\\asp-dotnet-lessons\\Pratices\\WebAppForMySister\\wwwroot\\images\\pricegif.gif",
       "SourceId": "WebAppForMySister",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\top_acdemy_student\\Source\\Repos\\asp-dotnet-lessons\\Pratices\\WebAppForMySister\\wwwroot\\",
       "BasePath": "_content/WebAppForMySister",
       "RelativePath": "images/pricegif.gif",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pricegif.gif"
     },
     {
-      "Identity": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\wwwroot\\styles\\mainStyles.css",
+      "Identity": "C:\\Users\\top_acdemy_student\\Source\\Repos\\asp-dotnet-lessons\\Pratices\\WebAppForMySister\\wwwroot\\styles\\mainStyles.css",
       "SourceId": "WebAppForMySister",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\top_acdemy_student\\Source\\Repos\\asp-dotnet-lessons\\Pratices\\WebAppForMySister\\wwwroot\\",
       "BasePath": "_content/WebAppForMySister",
       "RelativePath": "styles/mainStyles.css",
       "AssetKind": "All",

@@ -3,10 +3,10 @@ using WebAppForMySister.Services;
 
 namespace WebAppForMySister.MiddlewareComponents.API
 {
-    public class ShowReviewsMiddleware
+    public class ShowReviewsApiMiddleware
     {
         private readonly RequestDelegate next;
-        public ShowReviewsMiddleware(RequestDelegate next)
+        public ShowReviewsApiMiddleware(RequestDelegate next)
         {
             this.next = next;
         }
@@ -36,7 +36,7 @@ namespace WebAppForMySister.MiddlewareComponents.API
 
                 var entity = new ReviewModel() { Name = name, Discord = discord, Content = content };
                 await dbService.AddEntity(entity);
-                context.Response.Redirect("/");
+                context.Response.Redirect("/review");
                 return;
             }
             catch(Exception ex) { Console.WriteLine(ex.Message); }
