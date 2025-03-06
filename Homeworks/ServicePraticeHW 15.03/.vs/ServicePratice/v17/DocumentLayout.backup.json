@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\servicepraticehw 15.03\\middlewarecomponents\\mainpagemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|solutionrelative:middlewarecomponents\\mainpagemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\servicepraticehw 15.03\\middlewarecomponents\\getuserdatamiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|solutionrelative:middlewarecomponents\\getuserdatamiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\servicepraticehw 15.03\\services\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|solutionrelative:services\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\servicepraticehw 15.03\\interfaces\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|solutionrelative:interfaces\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\servicepraticehw 15.03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\servicepraticehw 15.03\\pages\\account.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|solutionrelative:pages\\account.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\servicepraticehw 15.03\\services\\endpointhandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|solutionrelative:services\\endpointhandlerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\servicepraticehw 15.03\\services\\userdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|solutionrelative:services\\userdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\servicepraticehw 15.03\\interfaces\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|solutionrelative:interfaces\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\servicepraticehw 15.03\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|solutionrelative:data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\servicepraticehw 15.03\\interfaces\\iencrypterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|solutionrelative:interfaces\\iencrypterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\servicepraticehw 15.03\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|solutionrelative:data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\servicepraticehw 15.03\\interfaces\\iverificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|solutionrelative:interfaces\\iverificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\servicepraticehw 15.03\\pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|solutionrelative:pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\servicepraticehw 15.03\\services\\userverificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|solutionrelative:services\\userverificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\servicepraticehw 15.03\\services\\passwordencrypterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|solutionrelative:services\\passwordencrypterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\homeworks\\servicepraticehw 15.03\\pages\\error.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCDA0930-1527-4C80-9658-8C8F34165CE0}|ServicePratice.csproj|solutionrelative:pages\\error.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPageMiddleware.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\MiddlewareComponents\\MainPageMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareComponents\\MainPageMiddleware.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\MiddlewareComponents\\MainPageMiddleware.cs",
+              "RelativeToolTip": "MiddlewareComponents\\MainPageMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:19:11.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetUserDataMiddleware.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\MiddlewareComponents\\GetUserDataMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareComponents\\GetUserDataMiddleware.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\MiddlewareComponents\\GetUserDataMiddleware.cs",
+              "RelativeToolTip": "MiddlewareComponents\\GetUserDataMiddleware.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:19:11.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "Data\\Context.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Data\\Context.cs",
+              "RelativeToolTip": "Data\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:19:11.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:19:11.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "account.html",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Pages\\account.html",
+              "RelativeDocumentMoniker": "Pages\\account.html",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Pages\\account.html",
+              "RelativeToolTip": "Pages\\account.html",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowFMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-06T13:46:17.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\User.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Data\\Models\\User.cs",
+              "RelativeToolTip": "Data\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:19:11.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDbService.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Services\\UserDbService.cs",
+              "RelativeDocumentMoniker": "Services\\UserDbService.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Services\\UserDbService.cs",
+              "RelativeToolTip": "Services\\UserDbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:19:11.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoggerService.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Services\\LoggerService.cs",
+              "RelativeDocumentMoniker": "Services\\LoggerService.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Services\\LoggerService.cs",
+              "RelativeToolTip": "Services\\LoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:31:41.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EndpointHandlerService.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Services\\EndpointHandlerService.cs",
+              "RelativeDocumentMoniker": "Services\\EndpointHandlerService.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Services\\EndpointHandlerService.cs",
+              "RelativeToolTip": "Services\\EndpointHandlerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:11:32.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILoggerService.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Interfaces\\ILoggerService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ILoggerService.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Interfaces\\ILoggerService.cs",
+              "RelativeToolTip": "Interfaces\\ILoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:31:11.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDbService.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Interfaces\\IDbService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDbService.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Interfaces\\IDbService.cs",
+              "RelativeToolTip": "Interfaces\\IDbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:19:11.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEncrypterService.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Interfaces\\IEncrypterService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEncrypterService.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Interfaces\\IEncrypterService.cs",
+              "RelativeToolTip": "Interfaces\\IEncrypterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:19:11.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IVerificationService.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Interfaces\\IVerificationService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IVerificationService.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Interfaces\\IVerificationService.cs",
+              "RelativeToolTip": "Interfaces\\IVerificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:19:11.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Pages\\index.html",
+              "RelativeDocumentMoniker": "Pages\\index.html",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Pages\\index.html",
+              "RelativeToolTip": "Pages\\index.html",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowFgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-06T13:19:11.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserVerificationService.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Services\\UserVerificationService.cs",
+              "RelativeDocumentMoniker": "Services\\UserVerificationService.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Services\\UserVerificationService.cs",
+              "RelativeToolTip": "Services\\UserVerificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:19:11.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PasswordEncrypterService.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Services\\PasswordEncrypterService.cs",
+              "RelativeDocumentMoniker": "Services\\PasswordEncrypterService.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Services\\PasswordEncrypterService.cs",
+              "RelativeToolTip": "Services\\PasswordEncrypterService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:19:11.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "error.html",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Pages\\error.html",
+              "RelativeDocumentMoniker": "Pages\\error.html",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Homeworks\\ServicePraticeHW 15.03\\Pages\\error.html",
+              "RelativeToolTip": "Pages\\error.html",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-06T13:24:18.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

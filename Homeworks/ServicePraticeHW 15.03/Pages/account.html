@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Личный кабинет</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4e1c6;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .profile-container {
+            background-color: #d2b48c;
+            padding: 30px;
+            border-radius: 16px;
+            box-shadow: 0 6px 20px rgba(139, 69, 19, 0.4);
+            width: 380px;
+            text-align: center;
+            box-sizing: border-box;
+        }
+        .profile-container h2 {
+            margin-bottom: 20px;
+            font-size: 28px;
+            color: #8b4513;
+        }
+        .avatar-container {
+            width: 100px;
+            height: 100px;
+            background-color: #bbb;
+            border-radius: 50%;
+            margin: 0 auto 20px;
+        }
+        .profile-info {
+            font-size: 18px;
+            color: #5a3e1b;
+            text-align: left;
+            margin-bottom: 15px;
+        }
+        .profile-info p {
+            margin: 10px 0;
+        }
+        .not-implemented {
+            color: #a52a2a;
+            font-style: italic;
+        }
+        .logout-button {
+            display: inline-block;
+            padding: 12px 20px;
+            background-color: #8b4513;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+        .logout-button:hover {
+            background-color: #5a3e1b;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const params = new URLSearchParams(window.location.search);
+            document.getElementById("username").textContent = params.get("username") || "Не указано";
+        });
+    </script>
+    <div class="profile-container">
+        <h2>Личный кабинет</h2>
+        <div class="avatar-container"></div>
+        <div class="profile-info">
+            <p><strong>Имя пользователя:</strong> <span id="username">Загрузка...</span></p>
+            <p><strong>Возраст:</strong> <span class="not-implemented">Еще не реализовано</span></p>
+            <p><strong>Время регистрации:</strong> <span class="not-implemented">Еще не реализовано</span></p>
+            <p><strong>Баланс:</strong> <span class="not-implemented">Еще не реализовано</span></p>
+        </div>
+        <a href="/registration-page" class="logout-button">Выйти</a>
+    </div>
+</body>
+</html>
