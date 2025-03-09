@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\wwwroot\\images\\flower.png",
+      "PackagePath": "staticwebassets\\images\\flower.png"
+    },
+    {
       "Id": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\wwwroot\\images\\pricegif.gif",
       "PackagePath": "staticwebassets\\images\\pricegif.gif"
     },

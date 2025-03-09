@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lkCXb1xZ4nDjFNQWR5qMXKDKcF3EFEAAdHGMjcpKm+0=",
+  "Hash": "HrFdLcfAI2vuI++7JHDTyXF5nhBEUWQXrWQQ/LMHRHQ=",
   "Source": "WebAppForMySister",
   "BasePath": "_content/WebAppForMySister",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\wwwroot\\images\\flower.png",
+      "SourceId": "WebAppForMySister",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\wwwroot\\",
+      "BasePath": "_content/WebAppForMySister",
+      "RelativePath": "images/flower.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\flower.png"
+    },
     {
       "Identity": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\wwwroot\\images\\pricegif.gif",
       "SourceId": "WebAppForMySister",
