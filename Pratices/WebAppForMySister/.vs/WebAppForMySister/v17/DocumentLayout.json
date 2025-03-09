@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\pratices\\webappformysister\\pages\\feedback.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|solutionrelative:pages\\feedback.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\pratices\\webappformysister\\pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|solutionrelative:pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\pratices\\webappformysister\\pages\\review.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|solutionrelative:pages\\review.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\pratices\\webappformysister\\pages\\contacts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|solutionrelative:pages\\contacts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\pratices\\webappformysister\\wwwroot\\styles\\mainstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|solutionrelative:wwwroot\\styles\\mainstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\pratices\\webappformysister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|solutionrelative:services\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\pratices\\webappformysister\\pages\\feedback.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|solutionrelative:pages\\feedback.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\pratices\\webappformysister\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|solutionrelative:libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -47,24 +63,8 @@
       "RelativeMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|solutionrelative:data\\models\\reviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\pratices\\webappformysister\\pages\\contacts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|solutionrelative:pages\\contacts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\pratices\\webappformysister\\pages\\review.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|solutionrelative:pages\\review.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\pratices\\webappformysister\\middlewarecomponents\\mainpagemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|solutionrelative:middlewarecomponents\\mainpagemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\pratices\\webappformysister\\pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|solutionrelative:pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\pratices\\webappformysister\\wwwroot\\styles\\mainstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|solutionrelative:wwwroot\\styles\\mainstyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90B978D5-0766-4C15-8969-817501691B02}|WebAppForMySister.csproj|c:\\myfolder\\coding\\githubreposes\\asp dotnet lessons\\pratices\\webappformysister\\middlewarecomponents\\portfoliopagemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,72 +90,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "libman.json",
-              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\libman.json",
-              "RelativeDocumentMoniker": "libman.json",
-              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\libman.json",
-              "RelativeToolTip": "libman.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-04T14:46:03.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "feedback.html",
-              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Pages\\feedback.html",
-              "RelativeDocumentMoniker": "Pages\\feedback.html",
-              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Pages\\feedback.html",
-              "RelativeToolTip": "Pages\\feedback.html",
-              "ViewState": "AgIAALgAAAAAAAAAAAAowNEAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-01T03:45:36.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T03:09:24.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReviewApiMiddleware.cs",
-              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\MiddlewareComponents\\API\\ReviewApiMiddleware.cs",
-              "RelativeDocumentMoniker": "MiddlewareComponents\\API\\ReviewApiMiddleware.cs",
-              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\MiddlewareComponents\\API\\ReviewApiMiddleware.cs",
-              "RelativeToolTip": "MiddlewareComponents\\API\\ReviewApiMiddleware.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAswCYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T13:48:43.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ReviewDbService.cs",
-              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Services\\ReviewDbService.cs",
-              "RelativeDocumentMoniker": "Services\\ReviewDbService.cs",
-              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Services\\ReviewDbService.cs",
-              "RelativeToolTip": "Services\\ReviewDbService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T13:30:36.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ReviewPageMiddleware.cs",
               "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\MiddlewareComponents\\ReviewPageMiddleware.cs",
               "RelativeDocumentMoniker": "MiddlewareComponents\\ReviewPageMiddleware.cs",
@@ -163,12 +111,11 @@
               "RelativeToolTip": "MiddlewareComponents\\ReviewPageMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T12:11:08.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T12:11:08.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "FeedbackPageMiddleware.cs",
               "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\MiddlewareComponents\\FeedbackPageMiddleware.cs",
               "RelativeDocumentMoniker": "MiddlewareComponents\\FeedbackPageMiddleware.cs",
@@ -176,12 +123,11 @@
               "RelativeToolTip": "MiddlewareComponents\\FeedbackPageMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T10:05:16.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T10:05:16.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "IDbService.cs",
               "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Services\\IDbService.cs",
               "RelativeDocumentMoniker": "Services\\IDbService.cs",
@@ -189,12 +135,11 @@
               "RelativeToolTip": "Services\\IDbService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T13:30:55.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T13:30:55.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Data\\Context.cs",
               "RelativeDocumentMoniker": "Data\\Context.cs",
@@ -202,12 +147,112 @@
               "RelativeToolTip": "Data\\Context.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T13:12:03.938Z",
+              "WhenOpened": "2025-03-04T13:12:03.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Pages\\index.html",
+              "RelativeDocumentMoniker": "Pages\\index.html",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Pages\\index.html",
+              "RelativeToolTip": "Pages\\index.html",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-01T03:42:49.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mainStyles.css",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\wwwroot\\styles\\mainStyles.css",
+              "RelativeDocumentMoniker": "wwwroot\\styles\\mainStyles.css",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\wwwroot\\styles\\mainStyles.css",
+              "RelativeToolTip": "wwwroot\\styles\\mainStyles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-04T09:58:06.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "feedback.html",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Pages\\feedback.html",
+              "RelativeDocumentMoniker": "Pages\\feedback.html",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Pages\\feedback.html",
+              "RelativeToolTip": "Pages\\feedback.html",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-01T03:45:36.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "contacts.html",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Pages\\contacts.html",
+              "RelativeDocumentMoniker": "Pages\\contacts.html",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Pages\\contacts.html",
+              "RelativeToolTip": "Pages\\contacts.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-01T03:42:23.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "review.html",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Pages\\review.html",
+              "RelativeDocumentMoniker": "Pages\\review.html",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Pages\\review.html",
+              "RelativeToolTip": "Pages\\review.html",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-04T12:10:11.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ReviewDbService.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Services\\ReviewDbService.cs",
+              "RelativeDocumentMoniker": "Services\\ReviewDbService.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Services\\ReviewDbService.cs",
+              "RelativeToolTip": "Services\\ReviewDbService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:30:36.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReviewApiMiddleware.cs",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\MiddlewareComponents\\API\\ReviewApiMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareComponents\\API\\ReviewApiMiddleware.cs",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\MiddlewareComponents\\API\\ReviewApiMiddleware.cs",
+              "RelativeToolTip": "MiddlewareComponents\\API\\ReviewApiMiddleware.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:48:43.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\libman.json",
+              "RelativeDocumentMoniker": "libman.json",
+              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\libman.json",
+              "RelativeToolTip": "libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T14:46:03.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ContactsPageMiddleware.cs",
               "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\MiddlewareComponents\\ContactsPageMiddleware.cs",
               "RelativeDocumentMoniker": "MiddlewareComponents\\ContactsPageMiddleware.cs",
@@ -215,12 +260,11 @@
               "RelativeToolTip": "MiddlewareComponents\\ContactsPageMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T11:17:13.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T11:17:13.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "ReviewModel.cs",
               "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Data\\Models\\ReviewModel.cs",
               "RelativeDocumentMoniker": "Data\\Models\\ReviewModel.cs",
@@ -228,38 +272,11 @@
               "RelativeToolTip": "Data\\Models\\ReviewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T13:10:53.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T13:10:53.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "contacts.html",
-              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Pages\\contacts.html",
-              "RelativeDocumentMoniker": "Pages\\contacts.html",
-              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Pages\\contacts.html",
-              "RelativeToolTip": "Pages\\contacts.html",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAowKMAAACWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-01T03:42:23.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "review.html",
-              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Pages\\review.html",
-              "RelativeDocumentMoniker": "Pages\\review.html",
-              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Pages\\review.html",
-              "RelativeToolTip": "Pages\\review.html",
-              "ViewState": "AgIAALkAAAAAAAAAAAAowNAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-04T12:10:11.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "MainPageMiddleware.cs",
               "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\MiddlewareComponents\\MainPageMiddleware.cs",
               "RelativeDocumentMoniker": "MiddlewareComponents\\MainPageMiddleware.cs",
@@ -267,8 +284,7 @@
               "RelativeToolTip": "MiddlewareComponents\\MainPageMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T10:03:50.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T10:03:50.494Z"
             },
             {
               "$type": "Document",
@@ -280,34 +296,7 @@
               "RelativeToolTip": "MiddlewareComponents\\PortfolioPageMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T10:06:11.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "mainStyles.css",
-              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\wwwroot\\styles\\mainStyles.css",
-              "RelativeDocumentMoniker": "wwwroot\\styles\\mainStyles.css",
-              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\wwwroot\\styles\\mainStyles.css",
-              "RelativeToolTip": "wwwroot\\styles\\mainStyles.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-04T09:58:06.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Pages\\index.html",
-              "RelativeDocumentMoniker": "Pages\\index.html",
-              "ToolTip": "C:\\MYFOLDER\\Coding\\GitHubReposes\\Asp dotnet lessons\\Pratices\\WebAppForMySister\\Pages\\index.html",
-              "RelativeToolTip": "Pages\\index.html",
-              "ViewState": "AgIAAL4AAAAAAAAAAAAowNUAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-01T03:42:49.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T10:06:11.442Z"
             },
             {
               "$type": "Document",
@@ -319,8 +308,7 @@
               "RelativeToolTip": "WebAppForMySister.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-01T04:03:42.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T04:03:42.607Z"
             }
           ]
         },
