@@ -1,0 +1,43 @@
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\EndpointsHW 16.03.csproj.AssemblyReference.cache
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\EndpointsHW 16.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\EndpointsHW 16.03.AssemblyInfoInputs.cache
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\EndpointsHW 16.03.AssemblyInfo.cs
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\EndpointsHW 16.03.csproj.CoreCompileInputs.cache
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\EndpointsHW 16.03.MvcApplicationPartsAssemblyInfo.cache
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\EndpointsHW 16.03.sourcelink.json
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\appsettings.Development.json
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\appsettings.json
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\EndpointsHW 16.03.exe
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\EndpointsHW 16.03.deps.json
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\EndpointsHW 16.03.runtimeconfig.json
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\EndpointsHW 16.03.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\EndpointsHW 16.03.pdb
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\Npgsql.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\staticwebassets.build.json
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\staticwebassets.development.json
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\staticwebassets\msbuild.EndpointsHW 16.03.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\staticwebassets\msbuild.build.EndpointsHW 16.03.props
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EndpointsHW 16.03.props
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EndpointsHW 16.03.props
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\staticwebassets.pack.json
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\scopedcss\bundle\EndpointsHW 16.03.styles.css
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\Endpoint.AC563B6F.Up2Date
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\EndpointsHW 16.03.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\refint\EndpointsHW 16.03.dll
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\EndpointsHW 16.03.pdb
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\EndpointsHW 16.03.genruntimeconfig.cache
+C:\MYFOLDER\Coding\GitHubReposes\Asp dotnet lessons\Homeworks\EndpointsHW 16.03\obj\Debug\net8.0\ref\EndpointsHW 16.03.dll

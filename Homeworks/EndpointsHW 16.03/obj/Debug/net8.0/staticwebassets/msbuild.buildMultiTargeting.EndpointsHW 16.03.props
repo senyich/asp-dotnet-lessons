@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EndpointsHW 16.03.props" />
+</Project>

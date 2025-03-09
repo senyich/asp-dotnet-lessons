@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>addgamepage</title>
+    <style>
+        :root {
+            --primary-color: #8B5A2B;
+            --secondary-color: #A67B5B;
+            --text-color: #F5DEB3;
+            --accent-color: #D2691E;
+            --hover-color: #8B4513;
+            --font-family: 'Comic Sans MS', cursive, sans-serif;
+        }
+
+        body {
+            font-family: var(--font-family);
+            background-color: var(--primary-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: var(--secondary-color);
+            padding: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            color: var(--text-color);
+        }
+
+        .nav-buttons {
+            display: flex;
+            gap: 15px;
+        }
+
+        .nav-buttons a {
+            background-color: var(--accent-color);
+            color: var(--text-color);
+            text-decoration: none;
+            padding: 10px 15px;
+            border-radius: 5px;
+            font-size: 18px;
+            transition: background-color 0.3s;
+        }
+
+        .nav-buttons a:hover {
+            background-color: var(--hover-color);
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .form-container {
+            background-color: var(--secondary-color);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            width: 100%;
+            max-width: 500px;
+        }
+
+        label {
+            font-size: 18px;
+            display: block;
+            margin-top: 10px;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        button {
+            background-color: var(--accent-color);
+            color: var(--text-color);
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            font-size: 18px;
+            margin-top: 15px;
+            cursor: pointer;
+            width: 100%;
+        }
+
+        button:hover {
+            background-color: var(--hover-color);
+        }
+    </style>
+</head>
+<body>
+    <script>        
+    function redirect(){
+        const name = document.getElementById('name').value;       
+        const queryString = `+${name}`;
+        window.location.href = '/deletegame' + queryString;
+    }
+    </script>
+    <header>
+        <div class="nav-buttons">
+            <a href="/games">Главная страница</a>
+            <a href="/addgame">Добавление игры</a>
+            <a href="/deletegame">Удаление игры</a>
+        </div>
+        <div class="logo">Monkey Game Jam</div>
+    </header>
+    <div class="container">
+        <div class="form-container">
+            <h2>Удалить новую игру</h2>
+            <form id="game-form">
+                <label for="name">Имя игры</label>
+                <input type="text" id="name" name="name" required>
+                    
+                <button onclick="redirect()">Удалить игру</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
